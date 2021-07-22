@@ -1,0 +1,31 @@
+body
+{
+    background : linear-gradient(#64A1FF,#8BFCFE);
+    font-family: 'Lobster', cursive;
+}
+.heading
+{
+    font-size: 26px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+#camera,#picture
+{
+    width : 350px;
+    height: 300px;
+    border: 5px darkcyan solid;
+}
+.emotion_name
+{
+    font-size: 28px;
+
+}
+label
+{
+    font-size: 20px;
+}
+
+.emoji
+{
+    font-size:23px ;
+}
